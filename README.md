@@ -33,10 +33,10 @@ Clone this repository or download the ZIP archive and copy the folder directly i
 
 ```bash
 # Clone the repository
-git clone https://github.com/neverloseagain1/After-The-Waltz-SDDM-Theme
+git clone https://github.com/neverloseagain1/On-The-Waterfall-SDDM-Theme
 
 # Move the theme directory to system SDDM themes folder with the correct name
-sudo cp -r The-Isle-SDDM /usr/share/sddm/themes/On-The-Waterfall
+sudo cp -r On-The-Waterfall-SDDM-Theme/ /usr/share/sddm/themes/On-The-Waterfall
 ```
 
 ### 2. Enable the Theme

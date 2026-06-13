@@ -33,10 +33,10 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/neverloseagain1/After-The-Waltz-SDDM-Theme
+git clone https://github.com/neverloseagain1/On-The-Waterfall-SDDM-Theme
 
 # Перенос папки темы в системный каталог под правильным именем
-sudo cp -r The-Isle-SDDM /usr/share/sddm/themes/On-The-Waterfall
+sudo cp -r On-The-Waterfall-SDDM-Theme/ /usr/share/sddm/themes/On-The-Waterfall
 ```
 
 ### 2. Активация темы
