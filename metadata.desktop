@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=On The Waterfall
+Description=The Isle (Legacy) dark survival style login screen
+Author=yaeblan
+Type=sddm-theme
+Version=1.0
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=yaeblan@example.com
+Theme-Id=On-The-Waterfall
+Theme-API=2.0
+QtVersion=6
