@@ -1,4 +1,4 @@
-# On the Waterfall SDDM Theme 🦖🌊
+# On-the-Waterfall SDDM Theme 🦖🌊
 
 Language: [English](README.md) | [Русский](README_RU.md)
 
